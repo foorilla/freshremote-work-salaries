@@ -1,8 +1,18 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2021e,SE,FT,DevOps Architect,110000,EUR,130635,IE,100,US,S
+2020,MI,FT,Cyber Threat Analyst,115000,USD,115000,US,100,US,L
+2021e,MI,FT,Android Engineer,115000,CAD,91919,CA,100,CA,L
+2021e,EN,FT,Big Data Engineer,30000,EUR,35627,IT,100,IT,M
+2020,EN,FT,Full Stack Software Engineer,25000,EUR,28511,IT,0,IT,S
+2021e,SE,FT,IT Security Manager,146000,USD,146000,US,100,US,L
+2021e,MI,FT,Cyber Security Analyst,135000,USD,135000,US,50,US,L
+2021e,EX,FT,Head of Security,220000,USD,220000,US,50,US,L
+2021e,SE,FT,Information Security Manager,185000,USD,185000,US,50,US,L
+2021e,SE,FT,Lead Product Designer,50000,USD,50000,IN,100,IN,S
 2020,SE,FT,DevOps Engineer,128000,USD,128000,US,100,US,L
 2020,EN,FT,Automation Engineer,70000,USD,70000,US,100,US,L
 2021e,MI,FT,Big Data Engineer,60000,USD,60000,ES,50,RO,M
-2021e,SE,FT,Cloud DevOps Systems Engineer,1200000,CZK,55551,CZ,50,CZ,L
+2021e,SE,FT,Cloud DevOps Systems Engineer,1200000,CZK,55501,CZ,50,CZ,L
 2021e,MI,FT,Cloud Operations Engineer,61000,EUR,72443,IE,100,IE,M
 2021e,MI,FT,Cyber Security Engineer,97350,USD,97350,US,100,US,L
 2020,SE,FT,Information Security Manager,150000,CAD,111883,CA,100,US,L
