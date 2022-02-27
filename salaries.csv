@@ -1,6 +1,18 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,MI,FT,Cyber Security Specialist,90000,EUR,102016,DE,50,DE,L
+2022,MI,FT,DevOps Engineer,52000,EUR,58942,CZ,100,CZ,L
+2022,SE,FT,Applied Data Scientist,380000,USD,380000,US,100,US,L
+2021,SE,FT,Cyber Security Researcher,315000,BRL,58390,BR,100,BR,L
+2022,MI,FT,Full Stack Software Engineer,70000,USD,70000,CN,100,FI,S
+2022,MI,FT,Incident Response Analyst,87000,USD,87000,US,50,US,L
+2021,EN,FT,Security Operations Analyst,45000,EUR,53192,DE,100,DE,S
+2022,EN,FT,Penetration Tester,2000,USD,2000,RO,50,RO,M
+2022,MI,FT,Data Engineer,62000,EUR,70277,FR,100,FR,M
+2022,SE,FT,Applied Data Scientist,177000,USD,177000,US,100,US,L
+2021,SE,FT,Lead Security Engineer,85000,EUR,100474,ES,100,ES,L
+2022,SE,FT,IT Security Engineer,130000,USD,130000,US,50,US,L
 2022,MI,FT,DevSecOps Engineer,150000,USD,150000,US,100,US,L
-2022,SE,FT,Security Researcher,92000,EUR,104190,FR,100,US,L
+2022,SE,FT,Security Researcher,92000,EUR,104283,FR,100,US,L
 2022,EN,FT,Site Reliability Engineer,105000,USD,105000,US,100,US,L
 2021,SE,FT,Penetration Testing Engineer,160000,USD,160000,US,100,US,L
 2021,MI,FT,Penetration Tester,28000,GBP,38513,GB,100,GB,S
