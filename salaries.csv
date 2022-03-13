@@ -1,4 +1,18 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2021,SE,FT,Security Researcher,137000,USD,137000,US,50,US,M
+2021,MI,FT,Research Scientist,69999,USD,69999,CZ,50,CZ,L
+2022,MI,FT,Frontend Developer,44000,GBP,59588,GB,100,GB,S
+2022,EN,FT,Data Engineer,52800,EUR,59807,PK,100,DE,M
+2022,MI,FT,Cyber Security Analyst,180000,USD,180000,US,100,US,L
+2022,SE,FT,Threat Intelligence Analyst,150000,USD,150000,US,100,US,L
+2021,SE,FT,Information Security Architect,128000,USD,128000,US,100,US,L
+2022,MI,FT,Application Security Engineer,250000,USD,250000,US,100,US,L
+2022,SE,FT,Data Science Manager,152500,USD,152500,US,100,US,M
+2022,MI,FT,Accounting Manager,50000,USD,50000,US,100,US,L
+2022,MI,FT,Frontend Developer,60000,EUR,67963,PT,100,CH,M
+2021,SE,FT,Data Science Manager,152000,USD,152000,US,100,US,M
+2021,SE,FT,Technical Product Manager,138500,USD,138500,US,100,US,M
+2022,EN,FT,Research Scientist,120000,USD,120000,US,100,US,L
 2022,MI,FT,Information Security Manager,180000,USD,180000,US,100,US,L
 2022,MI,FT,Data Scientist,135000,USD,135000,US,100,US,L
 2022,MI,FT,Incident Response Analyst,127000,USD,127000,US,100,US,L
