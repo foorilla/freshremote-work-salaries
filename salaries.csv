@@ -1,4 +1,14 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,MI,FT,Applied Machine Learning Scientist,75000,USD,75000,BO,100,US,L
+2022,EN,FT,Security Consultant,75000,CAD,59291,CA,100,CA,L
+2022,EX,FT,Director of Information Security,220000,USD,220000,US,100,US,M
+2022,MI,FT,Business Data Analyst,90000,CAD,71149,CA,50,CA,L
+2022,MI,FT,Applied Data Scientist,157000,USD,157000,US,100,US,L
+2021,MI,FT,Customer Support Specialist,38000,GBP,52267,GB,100,GB,L
+2022,MI,FT,Program Manager,73000,USD,73000,US,50,US,S
+2022,EX,FT,Director of Engineering,180000,USD,180000,US,100,US,M
+2022,EN,FT,Cyber Security Architect,150000,USD,150000,GH,100,US,M
+2022,EN,FT,Data Engineer,65000,USD,65000,US,100,US,S
 2022,MI,FT,Cyber Security Architect,129000,USD,129000,US,100,US,L
 2022,MI,FT,Security Consultant,122500,USD,122500,US,100,US,S
 2022,SE,FT,Principal Security Engineer,271600,USD,271600,US,100,US,L
@@ -64,7 +74,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Assistant Account Manager,29000,EUR,32317,ES,100,ES,L
 2022,SE,FT,Assistant Account Manager,29000,EUR,32317,ES,100,ES,L
 2022,MI,FT,IT Project Manager,6535,USD,6535,PK,0,PK,S
-2022,MI,FT,Full Stack Software Engineer,70000,GBP,93501,GB,100,GB,S
+2022,MI,FT,Full Stack Software Engineer,70000,GBP,93284,GB,100,GB,S
 2022,MI,FT,Product Security Engineer,130000,USD,130000,US,100,US,M
 2022,SE,FT,Information Security Compliance Manager,150000,USD,150000,US,100,US,L
 2021,EN,FT,Security Researcher,100000,USD,100000,US,50,US,L
@@ -83,7 +93,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Backend Engineer,152460,USD,152460,US,100,US,L
 2021,SE,FT,Backend Software Engineer,125000,USD,125000,US,100,US,L
 2021,SE,FT,Machine Learning Scientist,55000,EUR,65013,DE,100,DE,L
-2022,SE,FT,Backend Software Engineer,210000,GBP,280503,GB,100,GB,M
+2022,SE,FT,Backend Software Engineer,210000,GBP,279854,GB,100,GB,M
 2021,EX,CT,Engineering Manager,230000,EUR,271873,DK,100,FI,L
 2022,MI,FT,AI Scientist,70000,USD,70000,IN,100,IN,S
 2022,SE,FT,Engineering Manager,550000,USD,550000,US,100,US,L
@@ -96,15 +106,15 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Software Engineer,130000,USD,130000,US,100,US,L
 2022,SE,FT,Software Engineer,130000,USD,130000,US,100,US,M
 2022,MI,FT,Support Engineer,40000,USD,40000,US,50,US,L
-2022,SE,FT,Software Development Engineer,95000,GBP,126894,GB,100,GB,L
+2022,SE,FT,Software Development Engineer,95000,GBP,126600,GB,100,GB,L
 2022,SE,CT,Frontend Developer,160000,USD,160000,US,100,US,M
 2022,EN,CT,Software Engineer,26000,EUR,28974,IN,100,ES,M
 2022,EX,FT,Director of Product Management,195000,USD,195000,US,100,US,L
 2022,MI,FT,Business Data Analyst,92500,USD,92500,US,50,US,L
-2022,MI,FT,Site Reliability Engineer,115000,GBP,153608,GB,100,US,L
+2022,MI,FT,Site Reliability Engineer,115000,GBP,153253,GB,100,US,L
 2022,SE,FT,Backend Software Engineer,175000,USD,175000,US,50,US,M
 2022,SE,FT,Lead Software Engineer,140000,USD,140000,US,50,US,L
-2022,SE,FT,Java Developer,75000,GBP,100179,GB,50,GB,L
+2022,SE,FT,Java Developer,75000,GBP,99948,GB,50,GB,L
 2021,SE,FT,Software Engineer,90000,GBP,123792,GB,100,US,L
 2022,MI,FT,Linux Infrastructure Developer,42000,EUR,46804,IT,0,IT,L
 2022,SE,FT,Backend Software Engineer,140000,USD,140000,US,100,US,S
@@ -113,18 +123,18 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Software Engineer,190000,USD,190000,US,50,US,M
 2022,SE,CT,Frontend Developer,84000,USD,84000,CA,100,US,S
 2022,EN,FT,Java Developer,20000,EUR,22287,IT,100,IT,M
-2022,MI,FT,Full Stack Software Engineer,120000,CHF,129687,CH,100,CH,L
+2022,MI,FT,Full Stack Software Engineer,120000,CHF,129444,CH,100,CH,L
 2022,SE,FT,Backend Software Engineer,58000,EUR,64634,FR,50,FR,M
-2022,SE,FT,Engineering Manager,66000,GBP,88158,GB,50,GB,S
+2022,SE,FT,Engineering Manager,66000,GBP,87954,GB,50,GB,S
 2022,MI,FT,Full Stack Developer,105000,USD,105000,US,100,US,L
 2022,SE,FT,Infrastructure Architect,3000,USD,3000,CR,0,CR,S
 2022,EN,FT,Backend Developer,80000,EUR,89151,DE,100,DE,L
 2022,SE,FT,Developer Advocate,200000,USD,200000,CA,100,CA,L
-2022,SE,FL,Solution Architect,220000,CHF,237760,CH,100,DE,L
+2022,SE,FL,Solution Architect,220000,CHF,237315,CH,100,DE,L
 2022,SE,FT,Full Stack Software Engineer,220000,USD,220000,US,100,US,S
 2022,EX,FT,Claims Analyst,300000,USD,300000,US,100,US,L
 2021,SE,FT,Frontend Software Engineer,95000,EUR,112295,DE,100,DE,S
-2022,EN,FT,Software Engineer,600000,NOK,67911,NO,50,NO,L
+2022,EN,FT,Software Engineer,600000,NOK,67860,NO,50,NO,L
 2022,SE,FT,Machine Learning Engineer,170000,AUD,123721,AU,100,AU,L
 2022,SE,FT,Software Engineer,157500,USD,157500,US,100,US,M
 2022,SE,FT,Backend Software Engineer,50000,EUR,55719,IT,100,IT,L
@@ -137,12 +147,12 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Cyber Security Engineer,150000,USD,150000,US,100,US,L
 2022,MI,FT,Machine Learning Scientist,153000,USD,153000,US,50,US,M
 2022,SE,FT,Data Scientist,100000,USD,100000,BR,100,US,M
-2022,EN,FT,Frontend Developer,3000000,JPY,25522,JP,100,JP,S
-2022,SE,FT,Software Engineer,1200000,PHP,23254,PH,50,PH,M
+2022,EN,FT,Frontend Developer,3000000,JPY,25380,JP,100,JP,S
+2022,SE,FT,Software Engineer,1200000,PHP,23233,PH,50,PH,M
 2021,SE,FT,Incident Response Analyst,175000,USD,175000,US,100,US,M
 2022,SE,FT,Machine Learning Developer,100000,CAD,79055,CA,100,CA,M
 2022,MI,FT,Principal Data Analyst,75000,USD,75000,CA,100,CA,S
-2022,MI,FT,Data Scientist,150000,PLN,36204,PL,100,PL,L
+2022,MI,FT,Data Scientist,150000,PLN,36120,PL,100,PL,L
 2021,EN,FT,Designer,3800,USD,3800,US,100,US,L
 2022,MI,FT,Customer Service Representative,11615,USD,11615,PH,100,US,S
 2022,EN,FT,Cloud Platform Engineer,2000,USD,2000,IN,0,IN,S
@@ -153,18 +163,18 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Software QA Automation Engineer,1000000,INR,13259,IN,100,US,S
 2022,SE,FT,Staff Software Engineer,130000,EUR,144871,BE,100,US,M
 2022,MI,FT,Information Security Analyst,90000,USD,90000,US,100,US,L
-2022,MI,FT,Lead Security Engineer,60000,GBP,80143,GB,100,GB,L
+2022,MI,FT,Lead Security Engineer,60000,GBP,79958,GB,100,GB,L
 2022,MI,FT,Cyber Security Engineer,410000,USD,410000,IN,100,IN,L
 2021,EN,FT,Application Security Engineer,200000,USD,200000,US,100,US,L
 2022,EX,FT,Incident Response Manager,201000,USD,201000,US,100,US,L
 2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,32317,TN,100,CZ,M
-2022,SE,FT,Product Manager,420000,ZAR,27739,ZA,100,ZA,M
+2022,SE,FT,Product Manager,420000,ZAR,27703,ZA,100,ZA,M
 2022,SE,FT,Security Engineer,196000,USD,196000,US,100,US,L
 2022,EN,PT,Data Engineer,18000,BRL,3511,BR,100,BR,M
 2022,SE,FT,Web Developer,40000,USD,40000,MK,100,MK,S
 2021,SE,FT,Security Researcher,137000,USD,137000,US,50,US,M
 2021,MI,FT,Research Scientist,69999,USD,69999,CZ,50,CZ,L
-2022,MI,FT,Frontend Developer,44000,GBP,58772,GB,100,GB,S
+2022,MI,FT,Frontend Developer,44000,GBP,58636,GB,100,GB,S
 2022,EN,FT,Data Engineer,52800,EUR,58839,PK,100,DE,M
 2022,MI,FT,Cyber Security Analyst,180000,USD,180000,US,100,US,L
 2022,SE,FT,Threat Intelligence Analyst,150000,USD,150000,US,100,US,L
@@ -274,7 +284,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Cloud Engineer,75000,USD,75000,CO,100,US,L
 2022,SE,FT,Cyber Security Architect,160000,USD,160000,US,100,US,L
 2022,SE,FT,Vulnerability Management Engineer,175000,USD,175000,US,100,US,L
-2022,MI,FT,DevOps Engineer,420000,ILS,131211,IL,50,IL,S
+2022,MI,FT,DevOps Engineer,420000,ILS,131064,IL,50,IL,S
 2022,SE,FT,DevOps Engineer,100000,USD,100000,US,100,US,L
 2022,SE,FT,DevOps Engineer,140000,USD,140000,US,100,US,L
 2022,EN,FT,Penetration Testing Engineer,50000,USD,50000,US,100,US,S
@@ -338,11 +348,11 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Cyber Security Specialist,65000,EUR,72435,NL,50,NL,L
 2022,MI,FT,Information Security Analyst,46000,GBP,61301,GB,100,GB,L
 2021,EX,FT,Chief Information Security Officer,310000,USD,310000,US,50,US,L
-2022,SE,FT,Security Researcher,480000,ILS,149956,IL,50,IL,M
+2022,SE,FT,Security Researcher,480000,ILS,149787,IL,50,IL,M
 2022,EN,FT,IT Security Analyst,76000,USD,76000,US,50,US,L
 2022,SE,FT,Penetration Testing Engineer,150000,USD,150000,US,100,US,M
 2022,EX,FT,Chief Information Security Officer,102500,EUR,114225,DE,100,DE,M
-2022,SE,FT,Security Analyst,467000,MXN,22875,MX,100,MX,L
+2022,SE,FT,Security Analyst,467000,MXN,22889,MX,100,MX,L
 2022,MI,FT,Incident Response Analyst,160000,USD,160000,US,100,US,L
 2020,SE,FT,Cyber Threat Analyst,125000,USD,125000,US,50,US,L
 2022,MI,FT,Cyber Security Engineer,98000,USD,98000,US,100,US,L
@@ -380,7 +390,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,DevOps Security Engineer,180000,BRL,35119,BR,100,BR,L
 2022,MI,FT,Security Engineer,130000,USD,130000,US,100,US,L
 2022,EX,FT,Head of Security,360000,BRL,70239,BR,100,BR,L
-2022,SE,FT,Incident Response Lead,500000000,IDR,34853,ID,100,ID,L
+2022,SE,FT,Incident Response Lead,500000000,IDR,34846,ID,100,ID,L
 2022,MI,FT,Penetration Tester,42000,USD,42000,CZ,50,CZ,L
 2021,SE,FT,Penetration Tester,105000,USD,105000,US,100,US,S
 2022,EX,FT,Threat Intelligence Response Analyst,300000,USD,300000,GB,100,RU,L
